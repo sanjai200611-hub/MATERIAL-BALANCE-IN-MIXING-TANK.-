@@ -1,0 +1,19 @@
+TEAM CODEX FROM CHEMICAL DEPARTMENT SECTION - A 
+
+MATERIAL BALANCE IN A MIXING TANK
+----------------------------------
+Enter number of inlet streams: 2
+Enter inlet 1 flow rate (kg/h): 200
+Enter inlet 2 flow rate (kg/h): 300
+Enter outlet flow rate (kg/h): 450
+
+------ RESULTS ------
+Total Inlet Flow   : 500.00 kg/h
+Outlet Flow        : 450.00 kg/h
+Accumulation       : 50.00 kg/h
+Absolute Error     : 50.00 kg/h
+Percentage Error   : 10.00%
+
+Enter acceptable error tolerance (%): 5
+Status: MATERIAL IMBALANCE
+---------------------

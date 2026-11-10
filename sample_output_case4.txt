@@ -1,0 +1,8 @@
+TEAM CODEX FROM CHEMICAL DEPARTMENT SECTION - A 
+
+MATERIAL BALANCE IN A MIXING TANK
+----------------------------------
+Enter number of inlet streams: 2
+Enter inlet 1 flow rate (kg/h): 120
+Enter inlet 2 flow rate (kg/h): -5
+Error: Flow rate cannot be negative.
