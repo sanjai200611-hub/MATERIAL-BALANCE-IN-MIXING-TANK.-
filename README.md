@@ -5,7 +5,6 @@ A Python case study by **Team Codex**, Department of Chemical Engineering (Secti
 | Name | Register Number |
 |---|---|
 | SANJAI M | RA2411007010037 |
-| ARJUN M | RA2411007010031 |
 
 ## About the project
 
