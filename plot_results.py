@@ -49,5 +49,5 @@ ax[1].set_title("Error compared with tolerance")
 ax[1].legend()
 
 plt.tight_layout()
-plt.savefig("outputs/results_chart.png", dpi=200)
-print("Saved outputs/results_chart.png")
+plt.savefig("results_chart.png", dpi=200)
+print("Saved results_chart.png")
