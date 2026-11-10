@@ -45,6 +45,7 @@ Enter inlet 3 flow rate (kg/h): 250
 Enter outlet flow rate (kg/h): 495
 
 ------ RESULTS ------
+
 Total Inlet Flow   : 500.00 kg/h
 Outlet Flow        : 495.00 kg/h
 Accumulation       : 5.00 kg/h
